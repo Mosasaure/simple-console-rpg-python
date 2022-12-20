@@ -7,6 +7,10 @@ During the fight against the monster if you die the game ends
 
 You have to survive to all the 5 rounds to finnish the game
 
+## Status
+
+Not finnished
+
 # En français
 ## Qu'est-ce que c'est ?
 
@@ -15,3 +19,7 @@ C'est une jeu fais dans le langage **Python**. Le jeu se déroule sur 5 manches 
 Pendant les combats si vous mourez, vous perdrez la partie
 
 Vous aurez à finir les 5 manches pour finir le jeu
+
+## Statut
+
+Pas encore fini
