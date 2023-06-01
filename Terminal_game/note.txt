@@ -1,0 +1,1 @@
+event de la potion : choisir de la boire ou non 
